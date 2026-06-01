@@ -52,7 +52,7 @@ I am a Software Engineering student, passionate about web development, innovatio
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vite,maven,postman" height="45" />
 </p>
 
 ### 🎨 Design & Testing
