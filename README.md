@@ -42,7 +42,7 @@ I am a Software Engineering student, passionate about web development, innovatio
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css" height="45" />
 </p>
 
 ### ⚙️ Backend & Databases
