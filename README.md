@@ -1,7 +1,5 @@
 <!-- MasterHead with animated banner -->
-<p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="100%">
-</p>
+
 
 <!-- Animated Side Gifs -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
@@ -44,7 +42,7 @@ I am a Software Engineering student, passionate about web development, innovatio
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,html,css,sass" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,html,css" height="45" />
 </p>
 
 ### ⚙️ Backend & Databases
