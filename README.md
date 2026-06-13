@@ -1,17 +1,13 @@
-<!-- MasterHead with animated banner -->
-
-
 <!-- Animated Side Gifs -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
-
 <h1 align="center">👋 Hi, I'm Khadija El Kartouch</h1>
-<h3 align="center">💻 Software Engineering Student | Passionate Full-Stack Developer | Tech Explorer</h3>
-
+<h3 align="center">💻 Software Engineering Student | Full-Stack Developer | DevOps & Cloud Enthusiast</h3>
 <p align="center">
-I am a Software Engineering student, passionate about web development, innovation, and building efficient solutions. Always curious, I love learning new technologies and tackling complex technical challenges. 🚀
+I am a Software Engineering student passionate about web development, distributed systems, and cloud infrastructure.<br/>
+I love building efficient full-stack solutions, automating workflows with DevOps practices, and exploring modern Cloud technologies. 🚀<br/>
+Always curious, I enjoy tackling complex technical challenges and continuously expanding my skill set.
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kha-diija&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
@@ -50,9 +46,27 @@ I am a Software Engineering student, passionate about web development, innovatio
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb,oracle" height="45" />
 </p>
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vite,maven,postman" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws,postman" height="45" />
+</p>
+
+### 🔀 Distributed Systems & Big Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" height="45" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="35" />
+</p>
+
+### 🌐 Networking
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VLANs-0078D4?style=for-the-badge&logo=network&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20OSPF%20%7C%20RIP-009639?style=for-the-badge&logo=router&logoColor=white" height="35" />
 </p>
 
 ### 🎨 Design & Testing
@@ -64,15 +78,42 @@ I am a Software Engineering student, passionate about web development, innovatio
 
 ## 🚀 Featured Projects
 
-- 🌐 **Social Network for IT Students & Professionals** — Full-stack web application combining classic social features with real-time group messaging (via Socket.io), internship/job offers, and a profile recommendation system. *(React.js, Node.js/Express, MongoDB)*
-- 🏥 **Medical Office Management App** — Full-stack platform featuring multi-role management (doctor, secretary, admin) to handle patients, appointments, and administrative tasks via a REST API. *(React, Spring Boot, PostgreSQL)*
-- 🚗 **Car Rental Agency Platform** — Dynamic web platform for the complete management of a car rental business, including reservations, client tracking, and vehicle availability. *(PHP, MySQL)*
-- ☕ **Event Management Application** — Java desktop application designed to streamline event creation, scheduling, and participant tracking. *(Java)*
+### 🌐 [Social Network for IT Students & Professionals](https://github.com/kha-diija/reseau-sociaux)
+> Full-stack web application combining classic social features with real-time group messaging (via Socket.io), internship/job offers, and a profile recommendation system.
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+---
+
+### 🏥 [Medical Office Management App](https://github.com/kha-diija/cabinet-medical)
+> Full-stack platform featuring multi-role management (doctor, secretary, admin) to handle patients, appointments, and administrative tasks via a REST API.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🚗 Car Rental Agency Platform
+> Dynamic web platform for the complete management of a car rental business, including reservations, client tracking, and vehicle availability.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### ☕ Event Management Application
+> Java desktop application designed to streamline event creation, scheduling, and participant tracking.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <a href="https://github.com/kha-diija">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kha-diija&theme=midnight-purple&layout=compact&langs_count=8" alt="Top Languages">
@@ -89,5 +130,3 @@ I am a Software Engineering student, passionate about web development, innovatio
     <img width="80%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
