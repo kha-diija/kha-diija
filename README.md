@@ -5,7 +5,7 @@
 <h3 align="center">💻 Software Engineering Student | Full-Stack Developer | DevOps & Cloud Enthusiast</h3>
 <p align="center">
 I am a Software Engineering student passionate about web development, distributed systems, and cloud infrastructure.<br/>
-I love building efficient full-stack solutions, automating workflows with DevOps practices, and exploring modern Cloud technologies. 🚀<br/>
+I love building efficient full-stack solutions, automating workflows with DevOps practices, and exploring modern Cloud technologies. <br/>
 Always curious, I enjoy tackling complex technical challenges and continuously expanding my skill set.
 </p>
 <p align="center">
@@ -48,12 +48,8 @@ Always curious, I enjoy tackling complex technical challenges and continuously e
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vite,maven,postman" height="45" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws,postman,maven,vite" height="45" />
+
 </p>
 
 ### 🔀 Distributed Systems & Big Data
@@ -65,33 +61,15 @@ Always curious, I enjoy tackling complex technical challenges and continuously e
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="35" />
 </p>
 
-### 🌐 Networking
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco" height="45" />
-</p>
 
-### 🔀 Distributed Systems & Big Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka" height="45" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="35" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="35" />
-</p>
-
-### 🌐 Networking
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco" height="45" />
-</p>
-
-### 🎨 Design & Testing
+###  Design & Testing
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,selenium" height="45" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌐 [Social Network for IT Students & Professionals](https://github.com/kha-diija/reseau-sociaux)
 > Full-stack web application combining classic social features with real-time group messaging (via Socket.io), internship/job offers, and a profile recommendation system.
@@ -113,20 +91,6 @@ Always curious, I enjoy tackling complex technical challenges and continuously e
 
 ---
 
-### 🚗 Car Rental Agency Platform
-> Dynamic web platform for the complete management of a car rental business, including reservations, client tracking, and vehicle availability.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-### ☕ Event Management Application
-> Java desktop application designed to streamline event creation, scheduling, and participant tracking.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
----
 
 ## 📊 GitHub Analytics
 <p align="center">
