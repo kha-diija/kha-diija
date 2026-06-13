@@ -48,7 +48,7 @@ Always curious, I enjoy tackling complex technical challenges and continuously e
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws,postman" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vite,maven,postman" height="45" />
 </p>
 
 ### 🔀 Distributed Systems & Big Data
@@ -62,11 +62,7 @@ Always curious, I enjoy tackling complex technical challenges and continuously e
 
 ### 🌐 Networking
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/VLANs-0078D4?style=for-the-badge&logo=network&logoColor=white" height="35" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20OSPF%20%7C%20RIP-009639?style=for-the-badge&logo=router&logoColor=white" height="35" />
+  <img src="https://skillicons.dev/icons?i=cisco" height="45" />
 </p>
 
 ### 🎨 Design & Testing
