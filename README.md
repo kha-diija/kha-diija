@@ -1,8 +1,8 @@
 <!-- Animated Side Gifs -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
-<h1 align="center">👋 Hi, I'm Khadija El Kartouch</h1>
-<h3 align="center">💻 Software Engineering Student | Full-Stack Developer | DevOps & Cloud Enthusiast</h3>
+<h1 align="center"> Hi, I'm Khadija El Kartouch</h1>
+<h3 align="center"> Software Engineering Student | Full-Stack Developer | DevOps & Cloud Enthusiast</h3>
 <p align="center">
 I am a Software Engineering student passionate about web development, distributed systems, and cloud infrastructure.<br/>
 I love building efficient full-stack solutions, automating workflows with DevOps practices, and exploring modern Cloud technologies. <br/>
