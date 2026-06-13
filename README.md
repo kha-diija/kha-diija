@@ -51,6 +51,25 @@ Always curious, I enjoy tackling complex technical challenges and continuously e
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vite,maven,postman" height="45" />
 </p>
 
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws,postman,maven,vite" height="45" />
+</p>
+
+### 🔀 Distributed Systems & Big Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" height="45" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="35" />
+</p>
+
+### 🌐 Networking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cisco" height="45" />
+</p>
+
 ### 🔀 Distributed Systems & Big Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kafka" height="45" />
